@@ -1,0 +1,14 @@
+.container{
+  background-color: cornsilk;
+  box-shadow: 10px 12px purple;
+  border-radius: 20px;
+  padding: 10px;
+}
+
+ul{
+  list-style: square;
+}
+
+li{
+  color: purple;
+}

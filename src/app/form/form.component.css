@@ -1,0 +1,36 @@
+form {
+  background-color: inherit;
+  padding: 21px 21px 160px;
+  border-radius: 6px;
+  margin-top: 32px;
+  width: 40%;
+}
+
+div {
+  margin: 10px 10px ;
+}
+
+label { display: block; }
+
+input , textarea  {
+  padding: 0;
+  width: 100%;
+  font-family: inherit;
+  font-size: 20px;
+  box-sizing: border-box;
+  opacity: 0.5;
+}
+
+input[type = "submit"] {
+  width: 50%;
+  opacity: 1;
+}
+
+button {
+  border-radius: 5px;
+  width: 50%;
+  margin-left: 25%;
+  margin-right: 25%;
+  font-family: inherit;
+  cursor: pointer;
+}

@@ -1,0 +1,27 @@
+ul {
+  padding: 0;
+ }
+
+li {
+  list-style: none;
+  display: inline-block;
+  margin-right: 62px;
+  font-size: 18px;
+
+}
+
+a {
+  color: midnightblue;
+  text-decoration: none;
+  transition: all .1s;
+  opacity: .7;
+
+}
+
+a:hover {
+  opacity: 1;
+  cursor: pointer;
+  scroll-behavior: smooth;
+  color: indianred;
+  text-decoration: underline;
+}

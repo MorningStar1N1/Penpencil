@@ -1,0 +1,18 @@
+header{
+  background-color: antiquewhite;
+}
+
+
+img{
+  float: left ;
+  height: 5%;
+  width: 20%;
+  background-color: antiquewhite;
+}
+
+h1{
+  width: 100%;
+  color: purple;
+  font-family: "Architects Daughter",sans-serif;
+  font-size: 80px;
+}

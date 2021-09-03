@@ -1,0 +1,50 @@
+.image1{
+  float: right ;
+  /* height: 5%; */
+  width: 20%;
+}
+
+.title-block {
+  display: block;
+
+}
+
+
+.ul1{
+  margin: 0 auto;
+  text-align: right;
+}
+
+li{
+  display: inline-block;
+  vertical-align: top;
+  width: 50%;
+}
+
+.att,.digit,.mon,.test,.live,.safe{
+  float: left;
+  width: 20%;
+}
+
+.p1,.p2,.p3,.p4,.p5,.p6{
+  font-size: 13px;
+  text-align: right;
+}
+
+.cont {
+  align-self: center;
+}
+.image3{
+  height: inherit;
+}
+
+
+.flex-container {
+  display: inline-flex;
+  background-color: inherit;
+}
+
+.flex-container > div {
+  background-color: inherit;
+  font-size: 20px;
+}
